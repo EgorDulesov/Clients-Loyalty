@@ -27,4 +27,4 @@ This project is a work in the field of business analysis and focuses on the form
 - Interpretation of statistical indicators
 - Multiple data visualization using the *kableExtra* and *ggplot2 libraries*
 
-https://egordulesov.github.io/clients_analyse/
+https://egordulesov.github.io/Clients-Loyalty/
